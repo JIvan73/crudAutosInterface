@@ -5,6 +5,10 @@ public class Principal {
 		// TODO Auto-generated method stub
 		///Coleccion de objetos
 		
+		///////SE AGREGAN PRUEBAS EN CLASE PRINCIPAL
+		
+		
+		
 		Autos auto1 = new Autos(1234, "Mazda", "gt1", 100000000);
 		Autos auto2 = new Autos(456, "bmw", "atb", 500000000);
 		Autos auto3 = new Autos(987, "Audi", "opj", 30000000);
